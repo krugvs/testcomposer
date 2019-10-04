@@ -18,7 +18,7 @@
 	},
 	"autoload" : {
 		"classmap" : [
-			"./Sample.php"
+			"src/"
 		]
-	}
+	},
 }

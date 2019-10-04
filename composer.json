@@ -1,0 +1,24 @@
+{
+	"name" : "krugvs/sample",
+	"type" : "library",
+	"description" : "SDK for Sample",
+	"keywords" : [
+		"Sample",
+		"SDK"
+	],
+	"homepage" : "https://github.com/krugvs/testcomposer",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "krugvs",
+			"role" : "Developer"
+		}
+	],
+	"require" : {
+		"php" : ">= 7.2"
+	},
+	"autoload" : {
+		"classmap" : [
+			"./Sample.php"
+		]
+	}
+}
